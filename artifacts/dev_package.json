@@ -7,7 +7,7 @@
 	},
 	"name": "coop-putaway",
 	"description": "Coop: Putaway",
-	"ver": "23.9.20.730",
+	"ver": "23.9.20.731",
 	"enableCICD": true,
 	"apps": [
 		{
@@ -18,9 +18,9 @@
 			"package": {
 				"id": "4e762811-0528-458f-9481-f04cf656439f",
 				"createdAt": "2023-09-17T11:23:44.000Z",
-				"updatedAt": "2023-09-20T05:30:02.000Z",
+				"updatedAt": "2023-09-20T05:31:18.000Z",
 				"createdBy": "ole-andre.haugen@neptune-software.com",
-				"changedBy": "admin",
+				"changedBy": "ole-andre.haugen@neptune-software.com",
 				"git": {
 					"packageJSON": [
 						"==OBJECT STRING==",
@@ -218,11 +218,13 @@
 						"});",
 						""
 					],
-					"remote": "https://github.com/OleAndreHaugen/coopworkshp"
+					"remote": "https://github.com/OleAndreHaugen/coopworkshp",
+					"head": "dfc30baa18c6f00e545864bb11d25fa555eb6661",
+					"readme": "Coop Workshop"
 				},
 				"name": "coop-putaway",
 				"description": "Coop: Putaway",
-				"ver": "23.9.20.730",
+				"ver": "23.9.20.731",
 				"enableCICD": true
 			}
 		}
