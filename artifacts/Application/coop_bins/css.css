@@ -1,0 +1,11 @@
+.nepFlexWrap .sapFDynamicPageTitleMain {
+    flex-wrap: wrap;
+}
+
+.nepDynamicPage .sapFDynamicPageTitle {
+    padding: 0.5rem 0.8rem;
+}
+
+.nepDynamicPage .sapFDynamicPageHeader.sapFDynamicPageHeaderWithContent {
+    padding: 0;
+}
